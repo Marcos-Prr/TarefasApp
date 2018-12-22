@@ -3,13 +3,13 @@
 
 ### Sumario
  1. [Descrição](#description)
-
- 4. [Instalação](#installation)
- 5. [Executando](#running)
- 6. [Visualização](#view)
+ 2. [Requisitos](#requisiction)
+ 3. [Instalação](#installation)
+ 4. [Executando](#running)
+ 5. [Visualização](#view)
  
 
- ## Requisitos do Projeto
+ ## Requisitos 
 
  - PHP7+ ;
  - MySQL5+ ;
