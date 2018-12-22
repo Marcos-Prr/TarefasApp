@@ -26,13 +26,13 @@
       
    Mova o  projeto para o workspace do xampp  localizado em :
      
-     ..xamp\htdocs\
+     ..xampp\htdocs\
    
   ## Executando
    execute na pasta xamp o xampp control  para iniciar os serviços apache e mysql ou inicie manualmente executando :
      
-     service  apache start
-     service mysql start
+     #service  apache start
+     #service mysql start
     
     
    Criação do banco de dados :
