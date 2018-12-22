@@ -7,7 +7,7 @@
  3. [Requisitos do projeto](#project-requirements)
  4. [Instalação](#installation)
  5. [Executando](#running)
- 6. [Visualização] (#view)
+ 6. [Visualização](#view)
  
  ## Descrição
 
