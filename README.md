@@ -16,22 +16,27 @@
  - xampp ;
  
  ## Instalação
-    Primeiro de tudo você precisa clonar este repositório:
+   Primeiro de tudo você precisa clonar este repositório:
+    
      git clone https://github.com/Marcos-Prr/TarefasApp
   
-    Após isso , realize a instalação do xampp de acordo  com seu sistema :
-      https://www.apachefriends.org/pt_br/index.html
+   Após isso , realize a instalação do xampp de acordo  com seu sistema :
+     
+     https://www.apachefriends.org/pt_br/index.html
       
-    Mova o  projeto para o workspace do xampp  localizado em :
-      ..xamp\htdocs\
+   Mova o  projeto para o workspace do xampp  localizado em :
+     
+     ..xamp\htdocs\
    
   ## Executando
-    execute na pasta xamp o xampp control  para iniciar os serviços apache e mysql ou inicie manualmente executando :
+   execute na pasta xamp o xampp control  para iniciar os serviços apache e mysql ou inicie manualmente executando :
+     
      service  apache start
      service mysql start
     
     
    Criação do banco de dados :
+     
     #mysql -u root -p
     
     #create database tarefa;
