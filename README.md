@@ -67,6 +67,10 @@
      concluida varchar (80) default null
     );
    
+   ## Visualização 
+    Imagens  da execução do app :
+    
+     ![enter image description here]()
    
     
     
