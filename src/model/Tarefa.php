@@ -27,7 +27,7 @@ class Tarefa
     }
 
     /**
-     * Salvar o Tarefa
+     * Salva a tarefa
      */
     public function save()
     {
