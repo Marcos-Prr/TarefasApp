@@ -54,7 +54,7 @@
     );
    
    ## Visualização 
-    Imagens  da execução do app :
+   Imagens  da execução do app :
     
   ![enter image description here](https://lh3.googleusercontent.com/A0kkhSLY5hd2ZRD5g2haHDUMZkBBSaG3EMPpeIi4AJNRmDBi1WFAH8dGUF19Eet1m7M4dm5MaAkS4dyG0EupXKL9vlbRmNmS3QkvELN6Oi9CwCA0bB9QL9VM298NZXZu-Its-qfjzh44BBPO3YNU3BA5I8LczgeO_X3Tifcawov2uPWRXLFZBibEYIjOvxxEHEwllqtrhSfs4vOdCBfM8ByJqCkuzNrXSBTQPD_XzO4ukjSQIOtaqUv_M9V-2OIh5vjV6iLlJa6brcO3VzO6_8D5CyFQO0zhFNO03kTSR6x4ofeW-KbNH-S2wunpvTvQbdMSnhbvulWrgEVkhrMJrDLS_yMz_ZkO-JRYf6slAHsYQ4wJurPhPkF0QxHF2EgCrIW2kslXCixUUCNaCR5fS965Fsge3uw9rBcVzQU9wgi7AqJj4LjnQhzIhL1saYVsg9tGRxwVkbdoWexq0tb9iJW1YSF52LCaUHiRXKUpxXhFj-0pQD2n24FbkJVqcjMyPis6UWCswccxYpC0rV1qxihkAGNhtEII_b4IEl-8z_HHueWem6iP-Z5w0l4RAZR1NjjpcHBAN1xXXNAxqa3a66F7_KxjqlVT0K8uh5-qNbVvgKO5Asm-rlqYa_SDM2eu1ni6W__Y32rByJlwmC3fY-tS=w1360-h632-no "View inicial")  
   ![enter image description here](https://lh3.googleusercontent.com/jaE50wk2ipL_0FluIII1Xc7R9omJEOzg1a9XuIoH_gZny6I66zX0vU3JsBySRxJTLl2lgS2AN70weSetbFXc4jlICIZGshtu0QnoYqZbe3ziRnlYVETh5KwNhCAYSucV4vS87XgsAezS-iP3YGC4Vg2m4QHG7TiNfkdz56nLQK8LkCpYhCpOqBiEPJMR6X9J4kDSFmOHqnt2fo4zfD_2ZzxSUXfYeZr5fK_IvmzVd_0MUkHP7Jmf21dukQq1s9yjSsayJBcFjoSt90fyCWBqQs01hu7AvOEVzalxDdWmcO96P-JhqmZghpWx8Ilxxx_S6Ojhe7owXoxTR5pnzv8Jj7jAT6wWtMoxV3mhQaD00UkH9zw5idmYcw2rSH_7w-fBCDPbnsjNTPNbNXkhnQq0qWHZ7ibLxNL95WqrBjx80XCilzXOXOf9IjSJ9AFcFtBgJoTAmayK7sMLaj8D3-inivDldwhcIgNScZyq0Pul6QLPdg8rxHlkkFkHqGEIPKyD8bKOhuwFKhU6zg0w7oY8iNo0y7ml-t1ERNPweIVbJw0QEwDgDYl9pjFP2wAb84-CYcTk3OH7iKDeDK1MMbtlQrjpA2Sk33UHwRCnYPBJ1brbpvZuhSJcXFcgg9A1Ppv_9MerorYSdAHkL8jSo6vQx7Eg=w1364-h632-no "lista das tarefas")
@@ -66,7 +66,7 @@
 Este projeto pode  ter  varios  problemas   de otimização ,pois é uma aplicação básica!
 
 ## Autor
-- **Marcos Pereira da Silva Júnior ** - [GitHub](https://github.com/Marcos-Prr) - Email: [marcosprr34@gmail.com]
+- **Marcos Pereira da Silva Júnior **  - [GitHub](https://github.com/Marcos-Prr) - Email: [marcosprr34@gmail.com]
     
 
    
